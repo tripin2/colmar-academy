@@ -236,12 +236,12 @@ header nav span {
 }
 
 .item-image-container {
-  max-width: 100%;
+  width: 100%;
+  height: auto;
 }
 
 .item-image-container img {
-  max-width: 100%;
-  max-height: 100%;
+  width: 100%;
 }
 
 .item-info {
@@ -410,7 +410,7 @@ footer nav span {
     height: auto;
   }
 
-  .story-image-container img{
+  .story-image-container img {
     min-width: 100%;
   }
 
